@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+    background: red;
+}
+
+header {
+    background: #6c5ce7;
+    color: white;
+    padding: 15px;
+}
+
+nav {
+    background: #2d3436;
+    padding: 10px;
+}
+
+
+.content {
+    padding: 20px;
+}
+
+footer {
+    background: #6c5ce7;
+    color: white;
+    padding: 10px;
+}
